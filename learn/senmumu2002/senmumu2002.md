@@ -17,7 +17,7 @@
 
 官方网址：core.app
 索取测试空投：
-tools -> Avalanche testnet Faucet -> Fuji (C-Chain) -> AVAX -> 输入钱包地址后人机身份验证（必须输入有效的优惠券代码或AVAX 余额在 C-链上大于零？） -> 请求
+tools -> Avalanche testnet Faucet -> Fuji (C-Chain) -> AVAX -> 输入钱包地址后人机身份验证（优惠券代码avalanche-academy） -> 请求
 
 ### 第二章：Vibe Coding 开发第一个 DApp
 
